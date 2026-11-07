@@ -1,0 +1,5 @@
+git status para ver el estado de tus archivos.
+
+git add . y git commit -m "tu mensaje" para guardar nuevos cambios localmente.
+
+git push origin master para enviarlos a la nube.

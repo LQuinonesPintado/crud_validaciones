@@ -5,7 +5,7 @@
 namespace CRUD_validaciones.Migrations
 {
     /// <inheritdoc />
-    public partial class EjecucionHalloween2 : Migration
+    public partial class _0711 : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)

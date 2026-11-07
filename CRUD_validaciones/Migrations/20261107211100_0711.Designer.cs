@@ -11,8 +11,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace CRUD_validaciones.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20261031225602_EjecucionHalloween2")]
-    partial class EjecucionHalloween2
+    [Migration("20261107211100_0711")]
+    partial class _0711
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

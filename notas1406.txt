@@ -1,0 +1,4 @@
+1. Ir a appsetting y cambiar el nombre de BD
+2. Borrar carpeta migration
+3. ejecutar comando add-migration XYZ (comando desde nuggets)
+4. ejecutar comando update-database (comando desde nuggets)
